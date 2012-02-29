@@ -52,19 +52,11 @@ public class post extends HttpServlet
 			HomeBean.setCounter(counter);
 			HomeBean.setStore(Stores);
 			req.getSession().setAttribute("HomeBean", HomeBean);
-			res.sendRedirect("http://ac31004.computing.dundee.ac.uk:8080/demetrisdemetriou/home.jsp");
+			res.sendRedirect("home.jsp");
 			
-			/**
-			else
-			{
-				//errorBean.setErrorMessage("Incorrect Username/Password!");
-				rs.close();
-				con.close();
-				RequestDispatcher rd = req.getRequestDispatcher("index.jsp");
-				rd.forward(req,res);
-				
-			}
-			**/
+			
+			
+			
         }
        catch(Exception E)
 		{	

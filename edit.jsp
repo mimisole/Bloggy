@@ -34,10 +34,10 @@
 		 <div class="contentText"> <h1> Profile</h1></div>
 		 <form action="change" method="post">
 		 <table>
-		 id: <div type= "text" value=<jsp:getProperty name="ProfileBean" property="id"/> name = "iduser"/>
+		  <div type= "text" value=<jsp:getProperty name="ProfileBean" property="id"/> name = "iduser"/>
 		<tr><td>Name: </td> <td><input type="text" value = "<jsp:getProperty name="ProfileBean" property="FirstName"/>" name="firstname"></td></tr>
 		<tr><td>Surname: </td> <td><input type="text" value = "<jsp:getProperty name="ProfileBean" property="Surname"/>" name="lastname"> </td> </tr>
-		<tr><td>Email: </td> <td><input type="text" value = "<jsp:getProperty name="ProfileBean" property="Email"/>" name="mail">  </td> </tr>
+		<tr><td>Email: </td> <td><jsp:getProperty name="ProfileBean" property="Email"/>  </td> </tr>
 		<tr><td>Town: </td> <td><input type="text" value = "<jsp:getProperty name="ProfileBean" property="Town"/>" name="mytown"> </td> </tr>
 		<tr><td>Status: </td> <td><input type="text" value = "<jsp:getProperty name="ProfileBean" property="Status"/>" name="mystatus"> </td> </tr>
 		<tr><td><input type=submit value="Change"></td>   </tr>

@@ -26,7 +26,6 @@
             <ul>
                 <li><a href="home.jsp">Home</a></li>
                 <li><a href="profile.jsp">Profile</a></li>
-                <li><a href="#">Messege</a></li>
                 <li><a href="Logout">Log out</a></li>
 
             </ul>

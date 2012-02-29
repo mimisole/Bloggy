@@ -24,8 +24,6 @@
             <ul>
                 <li><a href="home.jsp">Home</a></li>
                 <li><a href="profile.jsp">Profile</a></li>
-                <li><a href="#">Messege</a></li>
-                <li><a href="friends.html">My Friends</a></li>
 				<li><a href="Logout">Log out<a/></li>
             </ul>
       </div>
@@ -34,7 +32,7 @@
 		 <div class="contentText"> <h1> Profile</h1></div>
 		 <form action="edit.jsp" method="post">
 		 <table>
-		 id: <jsp:getProperty name="ProfileBean" property="id"/> 
+		 
 		<tr><td>Name: </td> <td> <jsp:getProperty name="ProfileBean" property="FirstName"/> </td></tr>
 		<tr><td>Surname: </td> <td><jsp:getProperty name="ProfileBean" property="Surname"/> </td> </tr>
 		<tr><td>Email: </td> <td><jsp:getProperty name="ProfileBean" property="Email"/> </td> </tr>

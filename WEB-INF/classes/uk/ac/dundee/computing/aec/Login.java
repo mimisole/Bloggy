@@ -5,26 +5,34 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.sql.*;
 import java.sql.*;
+import java.text.*;
 
 public class Login extends HttpServlet
-{ 
+{
+	static Connection myConnection = null;
+	
 	public void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException,IOException
 	{	
 			
 		HttpSession currentSession = req.getSession(true);
 		ErrorMessageBean errorBean = (ErrorMessageBean)currentSession.getAttribute("errorBean");
 		
-		String Mail = req.getParameter("Email");
-		String Pass = req.getParameter("password");
 		
+		
+		String mail = req.getParameter("Email");
+		String pass = req.getParameter("password");
+		PreparedStatement pst = null;
+		String searchQuery = "SELECT * FROM user WHERE email = ? AND password = ? ";
 		try 
 		{
 			Class.forName("org.gjt.mm.mysql.Driver");
-			Connection MyConnection = DriverManager.getConnection("jdbc:mysql://arlia.computing.dundee.ac.uk/ddemetriou","ddemetriou","ac31004");
-			Statement st = MyConnection.createStatement();
+			myConnection = DriverManager.getConnection("jdbc:mysql://arlia.computing.dundee.ac.uk/ddemetriou","ddemetriou","ac31004");
+			pst = myConnection.prepareStatement(searchQuery);
+			pst.setString(1, mail);
+			pst.setString(2, pass);
 			ResultSet rs;
-			String searchQuery = "SELECT * FROM user WHERE email = '"+ Mail + "' AND password = '" + Pass +"'";
-			rs = st.executeQuery(searchQuery);
+			
+			rs = pst.executeQuery();
 			
 			
 			if (rs.next())
@@ -38,7 +46,7 @@ public class Login extends HttpServlet
 				
 				
 				rs.close();
-				MyConnection.close();
+				myConnection.close();
 			
 				LoginBean profileBean;
 				if (req.getSession().getAttribute("profileBean") == null)
@@ -56,14 +64,14 @@ public class Login extends HttpServlet
 				profileBean.setTown(Town);
 				profileBean.setStatus(Status);
 				req.getSession().setAttribute("ProfileBean", profileBean);
-				res.sendRedirect("http://ac31004.computing.dundee.ac.uk:8080/demetrisdemetriou/profile.jsp");
+				res.sendRedirect("profile.jsp");
 				
 			}
 			else
 			{
 				errorBean.setErrorMessage("Incorrect Username/Password!");
 				rs.close();
-				MyConnection.close();
+				myConnection.close();
 				RequestDispatcher rd = req.getRequestDispatcher("index.jsp");
 				rd.forward(req,res);
 				
