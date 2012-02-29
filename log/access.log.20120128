@@ -1,0 +1,4 @@
+134.36.36.110 - - [28/Jan/2012:21:00:10 +0000] "GET /demetrisdemetriou/images/resinlogoblue.gif HTTP/1.1" 200 1842 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1"
+94.11.221.115 - - [28/Jan/2012:23:13:15 +0000] "GET /demetrisdemetriou/images/resinlogoblue.gif HTTP/1.1" 200 1842 "http://www.facebook.com/l.php?u=http%3A%2F%2Fac31004.computing.dundee.ac.uk%3A8080%2Fdemetrisdemetriou%2Fimages%2Fresinlogoblue.gif&h=OAQER1yLj" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7"
+69.171.242.247 - - [28/Jan/2012:23:13:15 +0000] "GET /demetrisdemetriou/images/resinlogoblue.gif HTTP/1.1" 200 0 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+134.36.36.114 - - [31/Jan/2012:13:10:48 +0000] "GET /demetrisdemetriou/images/resinlogoblue.gif HTTP/1.1" 200 1842 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1"

@@ -1,0 +1,196 @@
+[13:10:57.504] Compiling _jsp/_index__jsp.java
+[13:10:57.957] java.lang.NullPointerException
+[13:10:57.957] 	at _jsp._index__jsp._jspService(_index__jsp.java:31)
+[13:10:57.957] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:10:57.957] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:10:57.957] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:10:57.957] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:10:57.957] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:10:57.957] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:10:57.957] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:10:57.957] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:10:57.957] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:10:57.957] 	at java.lang.Thread.run(Thread.java:595)
+[13:12:07.143] Compiling _jsp/_index__jsp.java
+[13:12:07.893] /index.jsp:26: cannot find symbol
+[13:12:07.893] symbol  : variable login
+[13:12:07.893] location: class _jsp._index__jsp
+[13:12:07.893]       out.print(( login+"/"+password ));
+[13:12:07.893]                   ^
+[13:12:07.893] /index.jsp:26: cannot find symbol
+[13:12:07.893] symbol  : variable password
+[13:12:07.893] location: class _jsp._index__jsp
+[13:12:07.893]       out.print(( login+"/"+password ));
+[13:12:07.893]                             ^
+[13:12:07.893] 2 errors
+[13:12:08.003] Compiling _jsp/_index__jsp.java
+[13:12:08.315] /index.jsp:26: cannot find symbol
+[13:12:08.315] symbol  : variable login
+[13:12:08.315] location: class _jsp._index__jsp
+[13:12:08.315]       out.print(( login+"/"+password ));
+[13:12:08.315]                   ^
+[13:12:08.315] /index.jsp:26: cannot find symbol
+[13:12:08.315] symbol  : variable password
+[13:12:08.315] location: class _jsp._index__jsp
+[13:12:08.315]       out.print(( login+"/"+password ));
+[13:12:08.315]                             ^
+[13:12:08.315] 2 errors
+[13:12:31.440] Compiling _jsp/_index__jsp.java
+[13:12:31.768] /index.jsp:26: cannot find symbol
+[13:12:31.768] symbol  : variable login
+[13:12:31.768] location: class _jsp._index__jsp
+[13:12:31.768]       out.print(( login+"/"+password ));
+[13:12:31.768]                   ^
+[13:12:31.768] /index.jsp:26: cannot find symbol
+[13:12:31.768] symbol  : variable password
+[13:12:31.768] location: class _jsp._index__jsp
+[13:12:31.768]       out.print(( login+"/"+password ));
+[13:12:31.768]                             ^
+[13:12:31.768] 2 errors
+[13:12:33.096] Compiling _jsp/_index__jsp.java
+[13:12:33.408] /index.jsp:26: cannot find symbol
+[13:12:33.408] symbol  : variable login
+[13:12:33.408] location: class _jsp._index__jsp
+[13:12:33.408]       out.print(( login+"/"+password ));
+[13:12:33.408]                   ^
+[13:12:33.408] /index.jsp:26: cannot find symbol
+[13:12:33.408] symbol  : variable password
+[13:12:33.408] location: class _jsp._index__jsp
+[13:12:33.408]       out.print(( login+"/"+password ));
+[13:12:33.408]                             ^
+[13:12:33.408] 2 errors
+[13:12:34.127] Compiling _jsp/_index__jsp.java
+[13:12:34.440] /index.jsp:26: cannot find symbol
+[13:12:34.440] symbol  : variable login
+[13:12:34.440] location: class _jsp._index__jsp
+[13:12:34.440]       out.print(( login+"/"+password ));
+[13:12:34.440]                   ^
+[13:12:34.440] /index.jsp:26: cannot find symbol
+[13:12:34.440] symbol  : variable password
+[13:12:34.440] location: class _jsp._index__jsp
+[13:12:34.440]       out.print(( login+"/"+password ));
+[13:12:34.440]                             ^
+[13:12:34.440] 2 errors
+[13:12:34.846] Compiling _jsp/_index__jsp.java
+[13:12:35.174] /index.jsp:26: cannot find symbol
+[13:12:35.174] symbol  : variable login
+[13:12:35.174] location: class _jsp._index__jsp
+[13:12:35.174]       out.print(( login+"/"+password ));
+[13:12:35.174]                   ^
+[13:12:35.174] /index.jsp:26: cannot find symbol
+[13:12:35.174] symbol  : variable password
+[13:12:35.174] location: class _jsp._index__jsp
+[13:12:35.174]       out.print(( login+"/"+password ));
+[13:12:35.174]                             ^
+[13:12:35.174] 2 errors
+[13:12:35.721] Compiling _jsp/_index__jsp.java
+[13:12:36.315] /index.jsp:26: cannot find symbol
+[13:12:36.315] symbol  : variable login
+[13:12:36.315] location: class _jsp._index__jsp
+[13:12:36.315]       out.print(( login+"/"+password ));
+[13:12:36.315]                   ^
+[13:12:36.315] /index.jsp:26: cannot find symbol
+[13:12:36.315] symbol  : variable password
+[13:12:36.315] location: class _jsp._index__jsp
+[13:12:36.315]       out.print(( login+"/"+password ));
+[13:12:36.315]                             ^
+[13:12:36.315] 2 errors
+[13:12:50.611] Compiling _jsp/_index__jsp.java
+[13:12:50.955] /index.jsp:26: cannot find symbol
+[13:12:50.955] symbol  : variable login
+[13:12:50.955] location: class _jsp._index__jsp
+[13:12:50.955]       out.print(( login+"/"+password ));
+[13:12:50.955]                   ^
+[13:12:50.955] /index.jsp:26: cannot find symbol
+[13:12:50.955] symbol  : variable password
+[13:12:50.955] location: class _jsp._index__jsp
+[13:12:50.955]       out.print(( login+"/"+password ));
+[13:12:50.955]                             ^
+[13:12:50.955] 2 errors
+[13:12:52.236] Compiling _jsp/_index__jsp.java
+[13:12:52.564] /index.jsp:26: cannot find symbol
+[13:12:52.564] symbol  : variable login
+[13:12:52.564] location: class _jsp._index__jsp
+[13:12:52.564]       out.print(( login+"/"+password ));
+[13:12:52.564]                   ^
+[13:12:52.564] /index.jsp:26: cannot find symbol
+[13:12:52.564] symbol  : variable password
+[13:12:52.564] location: class _jsp._index__jsp
+[13:12:52.564]       out.print(( login+"/"+password ));
+[13:12:52.564]                             ^
+[13:12:52.564] 2 errors
+[13:13:10.345] Compiling _jsp/_index__jsp.java
+[13:13:10.658] /index.jsp:26: cannot find symbol
+[13:13:10.658] symbol  : variable login
+[13:13:10.658] location: class _jsp._index__jsp
+[13:13:10.658]       out.print(( login+"/"+password ));
+[13:13:10.658]                   ^
+[13:13:10.658] /index.jsp:26: cannot find symbol
+[13:13:10.658] symbol  : variable password
+[13:13:10.658] location: class _jsp._index__jsp
+[13:13:10.658]       out.print(( login+"/"+password ));
+[13:13:10.658]                             ^
+[13:13:10.658] 2 errors
+[13:13:11.126] Compiling _jsp/_index__jsp.java
+[13:13:11.455] /index.jsp:26: cannot find symbol
+[13:13:11.455] symbol  : variable login
+[13:13:11.455] location: class _jsp._index__jsp
+[13:13:11.455]       out.print(( login+"/"+password ));
+[13:13:11.455]                   ^
+[13:13:11.455] /index.jsp:26: cannot find symbol
+[13:13:11.455] symbol  : variable password
+[13:13:11.455] location: class _jsp._index__jsp
+[13:13:11.455]       out.print(( login+"/"+password ));
+[13:13:11.455]                             ^
+[13:13:11.455] 2 errors
+[13:13:11.939] Compiling _jsp/_index__jsp.java
+[13:13:12.267] /index.jsp:26: cannot find symbol
+[13:13:12.267] symbol  : variable login
+[13:13:12.267] location: class _jsp._index__jsp
+[13:13:12.267]       out.print(( login+"/"+password ));
+[13:13:12.267]                   ^
+[13:13:12.267] /index.jsp:26: cannot find symbol
+[13:13:12.267] symbol  : variable password
+[13:13:12.267] location: class _jsp._index__jsp
+[13:13:12.267]       out.print(( login+"/"+password ));
+[13:13:12.267]                             ^
+[13:13:12.267] 2 errors
+[13:13:12.595] Compiling _jsp/_index__jsp.java
+[13:13:12.923] /index.jsp:26: cannot find symbol
+[13:13:12.923] symbol  : variable login
+[13:13:12.923] location: class _jsp._index__jsp
+[13:13:12.923]       out.print(( login+"/"+password ));
+[13:13:12.923]                   ^
+[13:13:12.923] /index.jsp:26: cannot find symbol
+[13:13:12.923] symbol  : variable password
+[13:13:12.923] location: class _jsp._index__jsp
+[13:13:12.923]       out.print(( login+"/"+password ));
+[13:13:12.923]                             ^
+[13:13:12.923] 2 errors
+[13:13:48.016] Compiling _jsp/_index__jsp.java
+[13:13:48.376] java.io.FileNotFoundException: /secret_include.jsp
+[13:13:48.376] 	at com.caucho.jsp.PageManager.getPage(PageManager.java:251)
+[13:13:48.376] 	at com.caucho.jsp.PageManager.getPage(PageManager.java:166)
+[13:13:48.376] 	at com.caucho.jsp.QServlet.getSubPage(QServlet.java:298)
+[13:13:48.376] 	at com.caucho.jsp.QServlet.getPage(QServlet.java:210)
+[13:13:48.376] 	at com.caucho.server.dispatch.PageFilterChain.compilePage(PageFilterChain.java:206)
+[13:13:48.376] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:133)
+[13:13:48.376] 	at com.caucho.server.webapp.DispatchFilterChain.doFilter(DispatchFilterChain.java:115)
+[13:13:48.376] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:13:48.376] 	at com.caucho.server.webapp.RequestDispatcherImpl.include(RequestDispatcherImpl.java:485)
+[13:13:48.376] 	at com.caucho.server.webapp.RequestDispatcherImpl.include(RequestDispatcherImpl.java:350)
+[13:13:48.376] 	at com.caucho.jsp.PageContextImpl.include(PageContextImpl.java:927)
+[13:13:48.376] 	at _jsp._index__jsp._jspService(_index__jsp.java:28)
+[13:13:48.376] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:13:48.376] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:13:48.376] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:13:48.376] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:13:48.376] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:13:48.376] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:13:48.376] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:13:48.376] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:13:48.376] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:13:48.376] 	at java.lang.Thread.run(Thread.java:595)
+[13:15:42.170] Compiling _jsp/_index__jsp.java
+[14:15:28.477] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:08:23.760] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting

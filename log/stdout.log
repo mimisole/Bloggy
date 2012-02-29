@@ -1,0 +1,1800 @@
+[19:07:42.452] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:09:18.202] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[10:58:40.884] resin-file: init
+[14:36:08.058] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[14:36:08.199] resin-file: destroy
+[14:41:35.556] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:05:36.865] resin-file: init
+[19:05:38.725] Login: init
+[19:05:43.725] post: init
+[19:15:34.049] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:15:34.049] resin-file: destroy
+[19:15:34.049] Login: destroy
+[19:15:34.049] post: destroy
+[19:15:34.596] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:15:34.596] Logout: init
+[19:15:34.830] resin-file: init
+[19:15:36.908] Login: init
+[19:15:45.408] post: init
+[19:17:09.252] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:17:09.252] resin-file: destroy
+[19:17:09.252] Login: destroy
+[19:17:09.252] Logout: destroy
+[19:17:09.252] post: destroy
+[19:17:09.705] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:17:09.705] Logout: init
+[19:17:09.892] resin-file: init
+[19:17:11.408] Login: init
+[19:17:18.283] post: init
+[19:19:09.954] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:19:09.954] resin-file: destroy
+[19:19:09.954] Login: destroy
+[19:19:09.954] Logout: destroy
+[19:19:09.954] post: destroy
+[19:19:10.079] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:19:37.844] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:19:38.282] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:19:38.282] Logout: init
+[19:19:38.469] resin-file: init
+[19:19:39.876] Login: init
+[19:19:41.766] Compiling _jsp/_home__jsp.java
+[19:23:38.984] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:23:38.984] resin-file: destroy
+[19:23:38.984] Login: destroy
+[19:23:38.984] Logout: destroy
+[19:23:39.109] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:23:58.905] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:23:59.343] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:23:59.437] resin-file: init
+[19:24:02.640] Logout: init
+[19:24:04.280] Login: init
+[19:43:01.476] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:43:01.476] resin-file: destroy
+[19:43:01.476] Login: destroy
+[19:43:01.476] Logout: destroy
+[19:43:01.601] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:43:21.757] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:43:22.195] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:43:22.413] resin-file: init
+[19:43:25.835] Logout: init
+[19:43:27.226] Login: init
+[19:49:23.505] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:49:23.505] resin-file: destroy
+[19:49:23.505] Login: destroy
+[19:49:23.505] Logout: destroy
+[19:49:23.614] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:53:06.082] Compiling uk/ac/dundee/computing/aec/post.java
+[19:53:06.394] Compiling _jsp/_home__jsp.java
+[19:53:08.769] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:53:08.910] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:53:33.238] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:53:33.660] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:53:33.878] resin-file: init
+[19:53:35.175] Login: init
+[19:53:42.941] post: init
+java.sql.SQLException: Column 'userid' not found.
+[19:57:33.721] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:57:33.721] resin-file: destroy
+[19:57:33.721] Login: destroy
+[19:57:33.721] post: destroy
+[19:57:34.158] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:57:34.377] resin-file: init
+[19:57:35.564] Login: init
+[19:57:38.892] post: init
+java.sql.SQLException: Column 'userid' not found.
+[19:59:34.220] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[19:59:34.220] resin-file: destroy
+[19:59:34.220] Login: destroy
+[19:59:34.220] post: destroy
+[19:59:34.657] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[19:59:34.657] Login: init
+java.sql.SQLException: Column 'iduser' not found.
+[20:01:34.281] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:01:34.281] Login: destroy
+[20:01:34.703] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:01:39.453] Login: init
+[20:01:43.766] post: init
+java.sql.SQLException: Column 'iduser' not found.
+[20:02:52.390] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:02:52.390] Login: destroy
+[20:02:52.390] post: destroy
+[20:03:49.937] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:03:50.031] resin-file: init
+[20:03:51.468] Login: init
+[20:03:55.077] post: init
+java.sql.SQLException: Column 'iduser' not found.
+[20:16:52.026] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:16:52.026] resin-file: destroy
+[20:16:52.026] Login: destroy
+[20:16:52.026] post: destroy
+[20:16:52.463] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:16:55.510] resin-file: init
+[20:16:58.369] Login: init
+[20:17:01.744] post: init
+[20:17:50.182] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:17:50.182] resin-file: destroy
+[20:17:50.182] Login: destroy
+[20:17:50.182] post: destroy
+[20:17:50.619] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:17:50.697] resin-file: init
+[20:17:52.870] Login: init
+[20:17:56.137] post: init
+java.sql.SQLException: Column 'iduser' not found.
+[20:18:50.863] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:18:50.863] resin-file: destroy
+[20:18:50.863] Login: destroy
+[20:18:50.863] post: destroy
+[20:18:50.988] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:19:22.485] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:19:22.970] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:19:23.063] resin-file: init
+[20:19:25.424] Login: init
+[20:19:28.691] post: init
+java.sql.SQLException: Column 'iduser' not found.
+[20:22:13.743] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:22:13.743] resin-file: destroy
+[20:22:13.743] Login: destroy
+[20:22:13.743] post: destroy
+[20:22:13.836] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:22:13.946] resin-file: init
+[20:22:16.947] Login: init
+[20:22:19.651] post: init
+java.sql.SQLException: Column 'iduser' not found.
+[20:23:46.609] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:23:46.609] resin-file: destroy
+[20:23:46.609] Login: destroy
+[20:23:46.609] post: destroy
+[20:23:47.172] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:23:47.281] resin-file: init
+[20:23:49.563] Login: init
+[20:23:53.173] post: init
+java.sql.SQLException: Column 'iduser' not found.
+java.sql.SQLException: Column 'iduser' not found.
+[20:25:03.948] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:25:03.948] resin-file: destroy
+[20:25:03.948] Login: destroy
+[20:25:03.948] post: destroy
+[20:25:04.386] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:25:04.480] resin-file: init
+[20:25:06.683] Login: init
+[20:25:09.871] post: init
+[20:37:03.207] Compiling _jsp/_home__jsp.java
+[20:47:04.520] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[20:47:04.520] resin-file: destroy
+[20:47:04.520] Login: destroy
+[20:47:04.520] post: destroy
+[20:47:04.630] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[20:47:13.380] post: init
+[20:47:13.395] java.lang.NullPointerException
+[20:47:13.395] 	at uk.ac.dundee.computing.aec.post.doPost(post.java:17)
+[20:47:13.395] 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:154)
+[20:47:13.395] 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:92)
+[20:47:13.395] 	at com.caucho.server.dispatch.ServletFilterChain.doFilter(ServletFilterChain.java:106)
+[20:47:13.395] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[20:47:13.395] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[20:47:13.395] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[20:47:13.395] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[20:47:13.395] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[20:47:13.395] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[20:47:13.395] 	at java.lang.Thread.run(Thread.java:595)
+[20:47:23.301] Logout: init
+[20:47:23.505] resin-file: init
+[20:47:24.989] Login: init
+[21:22:26.007] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[21:22:26.007] Compiling uk/ac/dundee/computing/aec/post.java
+[21:22:26.022] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\PostBean.java:46: 'class' or 'interface' expected
+[21:22:26.022] }
+[21:22:26.022] ^
+[21:22:26.022] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\PostBean.java:46: 'class' or 'interface' expected
+[21:22:26.022] }
+[21:22:26.022]  ^
+[21:22:26.022] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:19: illegal start of expression
+[21:22:26.022] 		private String Store[] =new String[50];
+[21:22:26.022]                 ^
+[21:22:26.022] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:52: ';' expected
+[21:22:26.022] 			i++	
+[21:22:26.022]                                ^
+[21:22:26.022] 4 errors
+[21:22:56.694] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:22:56.694] resin-file: destroy
+[21:22:56.694] Login: destroy
+[21:22:56.694] Logout: destroy
+[21:22:56.694] post: destroy
+[21:22:56.788] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:22:56.819] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[21:22:56.819] Compiling uk/ac/dundee/computing/aec/post.java
+[21:22:56.819] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:19: illegal start of expression
+[21:22:56.819] 		private String Store[] =new String[50];
+[21:22:56.819]                 ^
+[21:22:56.819] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:52: ';' expected
+[21:22:56.819] 			i++	
+[21:22:56.819]                                ^
+[21:22:56.819] 2 errors
+[21:23:56.381] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:23:56.475] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:24:04.209] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[21:24:04.209] Compiling uk/ac/dundee/computing/aec/post.java
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\PostBean.java:10: cannot find symbol
+[21:24:04.506] symbol  : variable Store
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.PostBean
+[21:24:04.506] 		return Store;
+[21:24:04.506]                        ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\PostBean.java:14: cannot find symbol
+[21:24:04.506] symbol  : variable Store
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.PostBean
+[21:24:04.506] 		this.Store=Store;
+[21:24:04.506]                 ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:35: cannot find symbol
+[21:24:04.506] symbol  : variable i
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.post
+[21:24:04.506] 				Store[i]=new String();
+[21:24:04.506]                                       ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:36: cannot find symbol
+[21:24:04.506] symbol  : variable i
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.post
+[21:24:04.506] 				Store[i]= rs.getString("text");				
+[21:24:04.506]                                       ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:51: cannot find symbol
+[21:24:04.506] symbol  : variable i
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.post
+[21:24:04.506] 				homeBean.setStore(Store[i]);
+[21:24:04.506]                                                         ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:51: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:24:04.506] 				homeBean.setStore(Store[i]);
+[21:24:04.506]                                         ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:52: cannot find symbol
+[21:24:04.506] symbol  : variable i
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.post
+[21:24:04.506] 			i++	;
+[21:24:04.506]                         ^
+[21:24:04.506] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:54: cannot find symbol
+[21:24:04.506] symbol  : variable homeBean
+[21:24:04.506] location: class uk.ac.dundee.computing.aec.post
+[21:24:04.506] 				req.getSession().setAttribute("HomeBean", homeBean);
+[21:24:04.506]                                                                           ^
+[21:24:04.506] 8 errors
+[21:24:56.381] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:24:56.475] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:25:39.459] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[21:25:39.459] Compiling uk/ac/dundee/computing/aec/post.java
+[21:25:39.771] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:35: cannot find symbol
+[21:25:39.771] symbol  : variable i
+[21:25:39.771] location: class uk.ac.dundee.computing.aec.post
+[21:25:39.771] 				Store[i]=new String();
+[21:25:39.771]                                       ^
+[21:25:39.771] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:36: cannot find symbol
+[21:25:39.771] symbol  : variable i
+[21:25:39.771] location: class uk.ac.dundee.computing.aec.post
+[21:25:39.771] 				Store[i]= rs.getString("text");				
+[21:25:39.771]                                       ^
+[21:25:39.771] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:51: cannot find symbol
+[21:25:39.771] symbol  : variable i
+[21:25:39.771] location: class uk.ac.dundee.computing.aec.post
+[21:25:39.771] 				homeBean.setStore(Store[i]);
+[21:25:39.771]                                                         ^
+[21:25:39.771] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:51: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:25:39.771] 				homeBean.setStore(Store[i]);
+[21:25:39.771]                                         ^
+[21:25:39.771] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:52: cannot find symbol
+[21:25:39.771] symbol  : variable i
+[21:25:39.771] location: class uk.ac.dundee.computing.aec.post
+[21:25:39.771] 			i++	;
+[21:25:39.771]                         ^
+[21:25:39.771] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:54: cannot find symbol
+[21:25:39.771] symbol  : variable homeBean
+[21:25:39.771] location: class uk.ac.dundee.computing.aec.post
+[21:25:39.771] 				req.getSession().setAttribute("HomeBean", homeBean);
+[21:25:39.771]                                                                           ^
+[21:25:39.771] 6 errors
+[21:25:56.427] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:25:56.521] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:26:43.083] Compiling uk/ac/dundee/computing/aec/post.java
+[21:26:43.380] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:51: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:26:43.380] 				homeBean.setStore(Store[i]);
+[21:26:43.380]                                         ^
+[21:26:43.380] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:54: cannot find symbol
+[21:26:43.380] symbol  : variable homeBean
+[21:26:43.380] location: class uk.ac.dundee.computing.aec.post
+[21:26:43.380] 				req.getSession().setAttribute("HomeBean", homeBean);
+[21:26:43.380]                                                                           ^
+[21:26:43.380] 2 errors
+[21:26:56.427] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:26:56.521] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:29:05.692] Compiling uk/ac/dundee/computing/aec/post.java
+[21:29:06.036] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:58: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:29:06.036] 				homeBean.setStore(Store[i]);
+[21:29:06.036]                                         ^
+[21:29:06.036] 1 error
+[21:29:56.926] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:29:57.035] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:35:40.221] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[21:35:40.221] Compiling uk/ac/dundee/computing/aec/post.java
+[21:35:40.517] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:58: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:35:40.517] 				homeBean.setStore(Store[i]);
+[21:35:40.517]                                         ^
+[21:35:40.517] 1 error
+[21:35:57.455] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:35:57.564] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:37:57.110] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[21:37:57.110] Compiling uk/ac/dundee/computing/aec/post.java
+[21:37:57.407] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:58: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:37:57.407] 				homeBean.setStore(Store[i]);
+[21:37:57.407]                                         ^
+[21:37:57.407] 1 error
+[21:38:24.563] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:38:24.657] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:38:24.704] resin-file: init
+[21:39:12.657] Login: init
+[21:39:16.235] Compiling uk/ac/dundee/computing/aec/post.java
+[21:39:16.532] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:58: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[21:39:16.532] 				homeBean.setStore(Store[i]);
+[21:39:16.532]                                         ^
+[21:39:16.532] 1 error
+[21:39:24.485] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:39:24.485] resin-file: destroy
+[21:39:24.485] Login: destroy
+[21:39:24.578] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:39:56.297] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:51:18.152] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:51:18.246] resin-file: init
+[21:51:20.043] Login: init
+[21:51:22.277] Compiling _jsp/_home__jsp.java
+[21:51:22.621] /home.jsp:41: cannot find symbol
+[21:51:22.621] symbol  : variable arrayStore
+[21:51:22.621] location: class _jsp._home__jsp
+[21:51:22.621] 			String[] Store=arrayStore.getStore();
+[21:51:22.621]                                        ^
+[21:51:22.621] 1 error
+[21:55:46.557] Compiling _jsp/_home__jsp.java
+[21:55:46.916] /home.jsp:41: cannot find symbol
+[21:55:46.916] symbol  : variable arrayStore
+[21:55:46.916] location: class _jsp._home__jsp
+[21:55:46.916] 			String[] Store=arrayStore.getStore();
+[21:55:46.916]                                        ^
+[21:55:46.916] 1 error
+[21:56:57.994] Compiling _jsp/_profile__jsp.java
+[21:57:00.072] Compiling _jsp/_edit__jsp.java
+[22:02:13.992] Compiling _jsp/_home__jsp.java
+[22:02:14.335] /home.jsp:41: cannot find symbol
+[22:02:14.335] symbol  : variable arrayStore
+[22:02:14.335] location: class _jsp._home__jsp
+[22:02:14.335] 			String[] Store=arrayStore.getStore();
+[22:02:14.335]                                        ^
+[22:02:14.335] 1 error
+[22:02:20.835] Compiling _jsp/_edit__jsp.java
+[22:20:52.797] Compiling uk/ac/dundee/computing/aec/change.java
+[22:20:52.813] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:52.813] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:52.813]                                ^
+[22:20:52.813] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:52.813] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:52.813]                                         ^
+[22:20:52.813] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:52.813] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:52.813]                                                        ^
+[22:20:52.813] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:52.813] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:52.813]                                                                       ^
+[22:20:52.813] 4 errors
+[22:20:58.219] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:20:58.219] resin-file: destroy
+[22:20:58.219] Login: destroy
+[22:20:58.312] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:20:58.344] Compiling uk/ac/dundee/computing/aec/change.java
+[22:20:58.344] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:58.344] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:58.344]                                ^
+[22:20:58.344] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:58.344] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:58.344]                                         ^
+[22:20:58.344] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:58.344] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:58.344]                                                        ^
+[22:20:58.344] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:29: unclosed character literal
+[22:20:58.344] 		     SET col_B='new_data'  WHERE col_A='reference_data' ;
+[22:20:58.344]                                                                       ^
+[22:20:58.344] 4 errors
+[22:21:42.593] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:21:42.718] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:21:42.750] Compiling uk/ac/dundee/computing/aec/change.java
+[22:21:43.078] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:9: class input is public, should be declared in a file named input.java
+[22:21:43.078] public class input extends HttpServlet
+[22:21:43.078]        ^
+[22:21:43.078] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:13: cannot find symbol
+[22:21:43.078] symbol  : method getInt(java.lang.String)
+[22:21:43.078] location: interface javax.servlet.http.HttpServletRequest
+[22:21:43.078] 		int id = request.getInt("iduser");
+[22:21:43.078]                                 ^
+[22:21:43.078] 2 errors
+[22:22:42.687] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:22:42.781] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:25:14.467] Compiling uk/ac/dundee/computing/aec/change.java
+[22:25:14.764] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:13: cannot find symbol
+[22:25:14.764] symbol  : method getInt(java.lang.String)
+[22:25:14.764] location: interface javax.servlet.http.HttpServletRequest
+[22:25:14.764] 		int id = request.getInt("iduser");
+[22:25:14.764]                                 ^
+[22:25:14.764] 1 error
+[22:25:42.748] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:25:42.842] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:26:25.654] Compiling uk/ac/dundee/computing/aec/change.java
+[22:26:25.951] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:13: cannot find symbol
+[22:26:25.951] symbol  : method getInt(java.lang.String)
+[22:26:25.951] location: interface javax.servlet.http.HttpServletRequest
+[22:26:25.951] 		int id = request.getInt("iduser");
+[22:26:25.951]                                 ^
+[22:26:25.951] 1 error
+[22:26:29.279] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:26:29.404] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:26:29.435] Compiling uk/ac/dundee/computing/aec/change.java
+[22:26:29.717] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:13: cannot find symbol
+[22:26:29.717] symbol  : method getInt(java.lang.String)
+[22:26:29.717] location: interface javax.servlet.http.HttpServletRequest
+[22:26:29.717] 		int id = request.getInt("iduser");
+[22:26:29.717]                                 ^
+[22:26:29.717] 1 error
+[22:27:29.294] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:27:29.388] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:27:42.638] Compiling uk/ac/dundee/computing/aec/change.java
+[22:27:42.919] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:13: cannot find symbol
+[22:27:42.919] symbol  : method getInt(java.lang.String)
+[22:27:42.919] location: interface javax.servlet.http.HttpServletRequest
+[22:27:42.919] 		int id = request.getInt("iduser");
+[22:27:42.919]                                 ^
+[22:27:42.919] 1 error
+[22:27:45.466] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:27:45.560] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:27:45.576] Compiling uk/ac/dundee/computing/aec/change.java
+[22:27:45.872] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:13: cannot find symbol
+[22:27:45.872] symbol  : method getInt(java.lang.String)
+[22:27:45.872] location: interface javax.servlet.http.HttpServletRequest
+[22:27:45.872] 		int id = request.getInt("iduser");
+[22:27:45.872]                                 ^
+[22:27:45.872] 1 error
+[22:28:45.310] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:28:45.403] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:29:55.622] Compiling uk/ac/dundee/computing/aec/change.java
+[22:29:55.918] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:32: cannot find symbol
+[22:29:55.918] symbol  : variable id
+[22:29:55.918] location: class uk.ac.dundee.computing.aec.change
+[22:29:55.918] 		   String searchQuery = "UPDATE user SET name = '"+firstname+"' Where iduser='"+id+"'"; 
+[22:29:55.918]                                                                                                 ^
+[22:29:55.918] 1 error
+[22:30:45.809] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:30:45.918] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:30:51.262] Compiling uk/ac/dundee/computing/aec/change.java
+[22:30:51.559] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:32: cannot find symbol
+[22:30:51.559] symbol  : variable id
+[22:30:51.559] location: class uk.ac.dundee.computing.aec.change
+[22:30:51.559] 		   String searchQuery = "UPDATE user SET name = '"+firstname+"' Where iduser='"+id+"'"; 
+[22:30:51.559]                                                                                                 ^
+[22:30:51.559] 1 error
+[22:30:57.762] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:30:57.871] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:30:57.902] Compiling uk/ac/dundee/computing/aec/change.java
+[22:30:58.184] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:32: cannot find symbol
+[22:30:58.184] symbol  : variable id
+[22:30:58.184] location: class uk.ac.dundee.computing.aec.change
+[22:30:58.184] 		   String searchQuery = "UPDATE user SET name = '"+firstname+"' Where iduser='"+id+"'"; 
+[22:30:58.184]                                                                                                 ^
+[22:30:58.184] 1 error
+[22:31:05.793] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:31:05.902] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:31:09.027] Logout: init
+[22:31:09.230] resin-file: init
+[22:31:10.465] Login: init
+[22:31:13.230] Compiling uk/ac/dundee/computing/aec/change.java
+[22:31:13.527] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\change.java:32: cannot find symbol
+[22:31:13.527] symbol  : variable id
+[22:31:13.527] location: class uk.ac.dundee.computing.aec.change
+[22:31:13.527] 		   String searchQuery = "UPDATE user SET name = '"+firstname+"' Where iduser='"+id+"'"; 
+[22:31:13.527]                                                                                                 ^
+[22:31:13.527] 1 error
+[22:32:05.824] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:32:05.824] resin-file: destroy
+[22:32:05.824] Login: destroy
+[22:32:05.824] Logout: destroy
+[22:32:05.918] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:32:48.886] Compiling uk/ac/dundee/computing/aec/change.java
+[22:32:49.214] Compiling _jsp/_edit__jsp.java
+[22:33:45.198] Logout: init
+[22:33:45.401] resin-file: init
+[22:34:13.573] input: init
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'test' for key 2com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'test' for key 2[22:34:49.620] Login: init
+[22:38:06.837] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:38:06.837] resin-file: destroy
+[22:38:06.837] input: destroy
+[22:38:06.837] Login: destroy
+[22:38:06.837] Logout: destroy
+[22:38:06.978] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:38:15.759] Logout: init
+[22:38:15.978] resin-file: init
+[22:38:22.821] Login: init
+[22:38:51.024] change: init
+java.sql.SQLException: Can not issue data manipulation statements with executeQuery().java.sql.SQLException: Can not issue data manipulation statements with executeQuery().[22:43:07.866] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:43:07.866] resin-file: destroy
+[22:43:07.866] Login: destroy
+[22:43:07.866] Logout: destroy
+[22:43:07.866] change: destroy
+[22:43:08.304] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:43:14.210] resin-file: init
+[22:43:20.366] Login: init
+[22:43:26.663] change: init
+[22:45:08.209] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:45:08.209] resin-file: destroy
+[22:45:08.209] Login: destroy
+[22:45:08.209] change: destroy
+[22:45:08.334] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:45:18.803] Login: init
+java.lang.NullPointerException
+[22:46:21.787] resin-file: init
+[22:46:38.553] change: init
+[22:48:24.568] Logout: init
+[12:37:49.489] Compiling _jsp/_home__jsp.java
+[12:37:50.114] /home.jsp:41: cannot find symbol
+[12:37:50.114] symbol  : variable arrayStore
+[12:37:50.114] location: class _jsp._home__jsp
+[12:37:50.114] 			String[] Store=arrayStore.getStore();
+[12:37:50.114]                                        ^
+[12:37:50.114] 1 error
+[12:39:57.488] Compiling _jsp/_home__jsp.java
+[12:39:57.832] /home.jsp:41: cannot find symbol
+[12:39:57.832] symbol  : variable PostBean
+[12:39:57.832] location: class _jsp._home__jsp
+[12:39:57.832] 			String[] Store=PostBean.getStore();
+[12:39:57.832]                                        ^
+[12:39:57.832] 1 error
+[12:40:43.707] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[12:40:43.707] resin-file: destroy
+[12:40:43.707] Login: destroy
+[12:40:43.707] Logout: destroy
+[12:40:43.707] change: destroy
+[12:40:44.363] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[12:40:44.378] Compiling _jsp/_home__jsp.java
+[12:40:44.722] /home.jsp:41: cannot find symbol
+[12:40:44.722] symbol  : variable PostBean
+[12:40:44.722] location: class _jsp._home__jsp
+[12:40:44.722] 			String[] Store= PostBean.getStore();
+[12:40:44.722]                                         ^
+[12:40:44.722] 1 error
+[12:45:04.377] Compiling _jsp/_home__jsp.java
+[12:45:04.814] java.lang.NullPointerException
+[12:45:04.814] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[12:45:04.814] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[12:45:04.814] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[12:45:04.814] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[12:45:04.814] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[12:45:04.814] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[12:45:04.814] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[12:45:04.814] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[12:45:04.814] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[12:45:04.814] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[12:45:04.814] 	at java.lang.Thread.run(Thread.java:595)
+[12:45:31.564] resin-file: init
+[12:45:33.330] Login: init
+[12:45:35.205] java.lang.NullPointerException
+[12:45:35.205] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[12:45:35.205] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[12:45:35.205] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[12:45:35.205] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[12:45:35.205] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[12:45:35.205] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[12:45:35.205] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[12:45:35.205] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[12:45:35.205] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[12:45:35.205] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[12:45:35.205] 	at java.lang.Thread.run(Thread.java:595)
+[12:46:53.876] Compiling _jsp/_home__jsp.java
+[12:46:54.220] /home.jsp:41: cannot find symbol
+[12:46:54.220] symbol  : variable PostBean
+[12:46:54.220] location: class _jsp._home__jsp
+[12:46:54.220] 			String[] Store = PostBean.getStore();
+[12:46:54.220]                                          ^
+[12:46:54.220] 1 error
+[12:50:22.125] Compiling _jsp/_home__jsp.java
+[12:50:37.672] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[12:50:40.140] java.lang.NullPointerException
+[12:50:40.140] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[12:50:40.140] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[12:50:40.140] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[12:50:40.140] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[12:50:40.140] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[12:50:40.140] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[12:50:40.140] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[12:50:40.140] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[12:50:40.140] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[12:50:40.140] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[12:50:40.140] 	at java.lang.Thread.run(Thread.java:595)
+[12:50:40.172] resin-file: destroy
+[12:50:40.172] Login: destroy
+[12:52:08.046] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[12:52:08.140] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[12:52:57.171] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[12:53:42.639] resin-file: init
+[12:53:45.030] Login: init
+[12:53:47.327] java.lang.NullPointerException
+[12:53:47.327] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[12:53:47.327] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[12:53:47.327] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[12:53:47.327] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[12:53:47.327] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[12:53:47.327] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[12:53:47.327] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[12:53:47.327] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[12:53:47.327] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[12:53:47.327] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[12:53:47.327] 	at java.lang.Thread.run(Thread.java:595)
+[12:55:17.045] java.lang.NullPointerException
+[12:55:17.045] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[12:55:17.045] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[12:55:17.045] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[12:55:17.045] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[12:55:17.045] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[12:55:17.045] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[12:55:17.045] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[12:55:17.045] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[12:55:17.045] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[12:55:17.045] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[12:55:17.045] 	at java.lang.Thread.run(Thread.java:595)
+[12:55:56.873] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[12:55:56.873] resin-file: destroy
+[12:55:56.873] Login: destroy
+[13:02:42.089] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:02:42.120] resin-file: init
+[13:02:43.823] Login: init
+[13:02:45.792] java.lang.NoSuchMethodError: uk.ac.dundee.computing.aec.PostBean.getStore()[Ljava/lang/String;
+[13:02:45.792] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:02:45.792] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:02:45.792] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:02:45.792] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:02:45.792] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:02:45.792] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:02:45.792] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:02:45.792] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:02:45.792] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:02:45.792] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:02:45.792] 	at java.lang.Thread.run(Thread.java:595)
+[13:03:23.042] Compiling _jsp/_home__jsp.java
+[13:03:23.401] /home.jsp:42: cannot find symbol
+[13:03:23.401] symbol  : variable length
+[13:03:23.401] location: class java.lang.String
+[13:03:23.401] 			for (int i=0; i< Store.length; i++){
+[13:03:23.401]                                               ^
+[13:03:23.401] 1 error
+[13:03:41.026] Compiling _jsp/_home__jsp.java
+[13:03:48.916] post: init
+java.sql.SQLException: Operation not allowed after ResultSet closed
+[13:03:58.557] Logout: init
+java.sql.SQLException: Operation not allowed after ResultSet closed
+[13:10:40.492] Compiling _jsp/_index__jsp.java
+[13:10:51.914] change: init
+[13:28:39.235] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[13:28:39.235] resin-file: destroy
+[13:28:39.235] Login: destroy
+[13:28:39.235] Logout: destroy
+[13:28:39.235] post: destroy
+[13:28:39.235] change: destroy
+[13:28:39.344] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:28:39.407] resin-file: init
+[13:28:41.079] Login: init
+[13:28:42.782] Compiling uk/ac/dundee/computing/aec/post.java
+[13:28:43.063] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:57: setStore(java.lang.String[]) in uk.ac.dundee.computing.aec.PostBean cannot be applied to (java.lang.String)
+[13:28:43.063] 				homeBean.setStore(Texture);
+[13:28:43.063]                                         ^
+[13:28:43.063] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\post.java:63: cannot find symbol
+[13:28:43.063] symbol  : variable homeBean
+[13:28:43.063] location: class uk.ac.dundee.computing.aec.post
+[13:28:43.063] 			homeBean.setStore(Store[i]);
+[13:28:43.063]                         ^
+[13:28:43.063] 2 errors
+[13:29:39.578] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[13:29:39.578] resin-file: destroy
+[13:29:39.578] Login: destroy
+[13:36:02.232] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:36:02.263] resin-file: init
+[13:36:03.748] Login: init
+[13:36:05.357] Compiling _jsp/_home__jsp.java
+[13:36:05.810] java.lang.NullPointerException
+[13:36:05.810] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[13:36:05.810] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:36:05.810] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:36:05.810] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:36:05.810] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:36:05.810] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:36:05.810] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:36:05.810] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:36:05.810] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:36:05.810] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:36:05.810] 	at java.lang.Thread.run(Thread.java:595)
+[13:37:44.669] Compiling _jsp/_home__jsp.java
+[13:37:45.060] java.lang.NullPointerException
+[13:37:45.060] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[13:37:45.060] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:37:45.060] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:37:45.060] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:37:45.060] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:37:45.060] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:37:45.060] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:37:45.060] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:37:45.060] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:37:45.060] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:37:45.060] 	at java.lang.Thread.run(Thread.java:595)
+[13:37:49.372] java.lang.NullPointerException
+[13:37:49.372] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[13:37:49.372] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:37:49.372] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:37:49.372] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:37:49.372] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:37:49.372] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:37:49.372] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:37:49.372] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:37:49.372] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:37:49.372] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:37:49.372] 	at java.lang.Thread.run(Thread.java:595)
+[13:38:01.950] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[13:38:01.950] resin-file: destroy
+[13:38:01.950] Login: destroy
+[13:38:02.388] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:38:09.263] resin-file: init
+[13:38:11.435] Login: init
+[13:38:12.903] java.lang.NullPointerException
+[13:38:12.903] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[13:38:12.903] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:38:12.903] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:38:12.903] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:38:12.903] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:38:12.903] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:38:12.903] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:38:12.903] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:38:12.903] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:38:12.903] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:38:12.903] 	at java.lang.Thread.run(Thread.java:595)
+[13:41:42.902] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[13:41:43.183] Compiling _jsp/_home__jsp.java
+[13:41:43.589] java.lang.NullPointerException
+[13:41:43.589] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[13:41:43.589] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:41:43.589] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:41:43.589] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:41:43.589] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:41:43.589] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:41:43.589] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:41:43.589] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:41:43.589] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:41:43.589] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:41:43.589] 	at java.lang.Thread.run(Thread.java:595)
+[13:41:52.652] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[13:41:52.652] resin-file: destroy
+[13:41:52.652] Login: destroy
+[13:41:53.386] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:41:53.402] java.lang.NullPointerException
+[13:41:53.402] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[13:41:53.402] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:41:53.402] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:41:53.402] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:41:53.402] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:41:53.402] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:41:53.402] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:41:53.402] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:41:53.402] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:41:53.402] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:41:53.402] 	at java.lang.Thread.run(Thread.java:595)
+[13:41:58.261] resin-file: init
+[13:42:00.433] Login: init
+[13:42:01.792] java.lang.NullPointerException
+[13:42:01.792] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[13:42:01.792] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:42:01.792] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:42:01.792] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:42:01.792] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:42:01.792] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:42:01.792] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:42:01.792] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:42:01.792] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:42:01.792] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:42:01.792] 	at java.lang.Thread.run(Thread.java:595)
+[13:42:43.652] Compiling _jsp/_home__jsp.java
+[13:42:44.073] java.lang.NullPointerException
+[13:42:44.073] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:42:44.073] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:42:44.073] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:42:44.073] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:42:44.073] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:42:44.073] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:42:44.073] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:42:44.073] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:42:44.073] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:42:44.073] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:42:44.073] 	at java.lang.Thread.run(Thread.java:595)
+[13:43:53.401] Compiling _jsp/_home__jsp.java
+[13:43:53.854] java.lang.NullPointerException
+[13:43:53.854] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:43:53.854] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:43:53.854] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:43:53.854] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:43:53.854] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:43:53.854] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:43:53.854] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:43:53.854] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:43:53.854] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:43:53.854] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:43:53.854] 	at java.lang.Thread.run(Thread.java:595)
+[13:44:02.370] java.lang.NullPointerException
+[13:44:02.370] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:44:02.370] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:44:02.370] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:44:02.370] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:44:02.370] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:44:02.370] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:44:02.370] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:44:02.370] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:44:02.370] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:44:02.370] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:44:02.370] 	at java.lang.Thread.run(Thread.java:595)
+[13:44:16.870] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[13:44:16.870] resin-file: destroy
+[13:44:16.870] Login: destroy
+[13:44:17.620] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:44:25.713] resin-file: init
+[13:44:27.666] Login: init
+[13:44:29.448] java.lang.NullPointerException
+[13:44:29.448] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:44:29.448] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:44:29.448] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:44:29.448] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:44:29.448] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:44:29.448] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:44:29.448] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:44:29.448] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:44:29.448] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:44:29.448] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:44:29.448] 	at java.lang.Thread.run(Thread.java:595)
+[13:46:31.244] java.lang.NullPointerException
+[13:46:31.244] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:46:31.244] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:46:31.244] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:46:31.244] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:46:31.244] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:46:31.244] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:46:31.244] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:46:31.244] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:46:31.244] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:46:31.244] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:46:31.244] 	at java.lang.Thread.run(Thread.java:595)
+[13:46:40.259] java.lang.NullPointerException
+[13:46:40.259] 	at _jsp._home__jsp._jspService(_home__jsp.java:39)
+[13:46:40.259] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:46:40.259] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:46:40.259] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:46:40.259] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:46:40.259] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:46:40.259] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:46:40.259] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:46:40.259] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:46:40.259] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:46:40.259] 	at java.lang.Thread.run(Thread.java:595)
+[13:52:00.054] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[13:52:00.054] resin-file: destroy
+[13:52:00.054] Login: destroy
+[13:52:00.601] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[13:52:00.664] resin-file: init
+[13:52:04.070] Login: init
+[13:52:05.835] Compiling _jsp/_home__jsp.java
+[13:52:05.851] /home.jsp:48: not a statement
+[13:52:05.851]       Store[i]
+[13:52:05.851]            ^
+[13:52:05.851] /home.jsp:48: ';' expected
+[13:52:05.851]       out.write(_jsp_string3, 0, _jsp_string3.length);
+[13:52:05.851]       ^
+[13:52:05.851] 2 errors
+[13:52:36.585] Compiling _jsp/_home__jsp.java
+[13:52:36.601] /home.jsp:48: not a statement
+[13:52:36.601]       Store[i];
+[13:52:36.601]            ^
+[13:52:36.601] 1 error
+[13:53:24.460] Compiling _jsp/_home__jsp.java
+[13:53:24.476] /home.jsp:48: ')' expected
+[13:53:24.476]       out.print((Store[i];));
+[13:53:24.476]                          ^
+[13:53:24.476] /home.jsp:48: illegal start of expression
+[13:53:24.476]       out.print((Store[i];));
+[13:53:24.476]                           ^
+[13:53:24.476] 2 errors
+[13:53:38.866] Compiling _jsp/_home__jsp.java
+[13:53:39.288] java.lang.NullPointerException
+[13:53:39.288] 	at _jsp._home__jsp._jspService(_home__jsp.java:40)
+[13:53:39.288] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:53:39.288] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:53:39.288] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:53:39.288] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:53:39.288] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:53:39.288] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:53:39.288] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:53:39.288] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:53:39.288] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:53:39.288] 	at java.lang.Thread.run(Thread.java:595)
+[13:57:25.146] Compiling _jsp/_home__jsp.java
+[13:57:25.568] java.lang.NullPointerException
+[13:57:25.568] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[13:57:25.568] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[13:57:25.568] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[13:57:25.568] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[13:57:25.568] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[13:57:25.568] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[13:57:25.568] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[13:57:25.568] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[13:57:25.568] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[13:57:25.568] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[13:57:25.568] 	at java.lang.Thread.run(Thread.java:595)
+[13:57:49.677] Compiling _jsp/_home__jsp.java
+[13:57:50.021] /home.jsp:48: variable Store might not have been initialized
+[13:57:50.021]       out.print((Store[i]));
+[13:57:50.021]                  ^
+[13:57:50.021] 1 error
+[15:11:55.275] Compiling _jsp/_home__jsp.java
+[15:11:55.619] /home.jsp:48: variable Store might not have been initialized
+[15:11:55.619]       out.print((Store[i]));
+[15:11:55.619]                  ^
+[15:11:55.619] 1 error
+[15:12:12.228] Compiling _jsp/_home__jsp.java
+[15:12:12.572] /home.jsp:43: variable Store might not have been initialized
+[15:12:12.572] 			for (int i=0; i< Store.length; i++)
+[15:12:12.572]                                          ^
+[15:12:12.572] 1 error
+[15:17:10.914] Compiling _jsp/_home__jsp.java
+[15:17:11.383] java.lang.NullPointerException
+[15:17:11.383] 	at _jsp._home__jsp._jspService(_home__jsp.java:42)
+[15:17:11.383] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:17:11.383] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:17:11.383] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:17:11.383] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:17:11.383] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:17:11.383] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:17:11.383] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:17:11.383] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:17:11.383] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:17:11.383] 	at java.lang.Thread.run(Thread.java:595)
+[15:17:35.164] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:17:35.164] resin-file: destroy
+[15:17:35.164] Login: destroy
+[15:17:35.601] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:17:35.617] java.lang.NullPointerException
+[15:17:35.617] 	at _jsp._home__jsp._jspService(_home__jsp.java:42)
+[15:17:35.617] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:17:35.617] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:17:35.617] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:17:35.617] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:17:35.617] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:17:35.617] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:17:35.617] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:17:35.617] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:17:35.617] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:17:35.617] 	at java.lang.Thread.run(Thread.java:595)
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'null' for key 2[15:18:01.695] resin-file: init
+[15:18:10.242] Login: init
+[15:18:12.210] java.lang.NullPointerException
+[15:18:12.210] 	at _jsp._home__jsp._jspService(_home__jsp.java:42)
+[15:18:12.210] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:18:12.210] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:18:12.210] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:18:12.210] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:18:12.210] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:18:12.210] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:18:12.210] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:18:12.210] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:18:12.210] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:18:12.210] 	at java.lang.Thread.run(Thread.java:595)
+[15:20:10.288] Compiling uk/ac/dundee/computing/aec/post.java
+[15:20:10.600] Compiling _jsp/_home__jsp.java
+[15:20:10.631] /home.jsp:45: ';' expected
+[15:20:10.631] 			for (int i=0; i< 1 i++)
+[15:20:10.631]                                            ^
+[15:20:10.631] /home.jsp:58: illegal start of expression
+[15:20:10.631]     } catch (java.lang.Throwable _jsp_e) {
+[15:20:10.631]     ^
+[15:20:10.631] 2 errors
+[15:20:35.272] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:20:35.272] resin-file: destroy
+[15:20:35.272] Login: destroy
+[15:20:35.366] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:20:45.303] Compiling _jsp/_home__jsp.java
+[15:20:45.319] /home.jsp:50: illegal start of expression
+[15:20:45.319]       ));
+[15:20:45.319]       ^
+[15:20:45.319] /home.jsp:50: ')' expected
+[15:20:45.319]       ));
+[15:20:45.319]         ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:26: 'try' without 'catch' or 'finally'
+[15:20:45.319]     try {
+[15:20:45.319]     ^
+[15:20:45.319] /home.jsp:58: illegal start of type
+[15:20:45.319]     } catch (java.lang.Throwable _jsp_e) {
+[15:20:45.319]       ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:56: <identifier> expected
+[15:20:45.319]   }
+[15:20:45.319]   ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:58: 'class' or 'interface' expected
+[15:20:45.319]   private java.util.ArrayList _caucho_depends = new java.util.ArrayList();
+[15:20:45.319]           ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:60: 'class' or 'interface' expected
+[15:20:45.319]   public java.util.ArrayList _caucho_getDependList()
+[15:20:45.319]          ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:114: 'class' or 'interface' expected
+[15:20:45.319]   private final static char []_jsp_string2;
+[15:20:45.319]                        ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:115: 'class' or 'interface' expected
+[15:20:45.319]   private final static char []_jsp_string4;
+[15:20:45.319]                        ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:116: 'class' or 'interface' expected
+[15:20:45.319]   private final static char []_jsp_string0;
+[15:20:45.319]                        ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:117: 'class' or 'interface' expected
+[15:20:45.319]   private final static char []_jsp_string3;
+[15:20:45.319]                        ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:118: 'class' or 'interface' expected
+[15:20:45.319]   static {
+[15:20:45.319]          ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:125: 'class' or 'interface' expected
+[15:20:45.319] }
+[15:20:45.319] ^
+[15:20:45.319] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:126: 'class' or 'interface' expected
+[15:20:45.319] ^
+[15:20:45.319] 14 errors
+[15:21:10.928] Compiling _jsp/_home__jsp.java
+[15:21:11.381] resin-file: init
+[15:21:15.287] Logout: init
+[15:21:16.647] Login: init
+[15:21:26.256] post: init
+java.sql.SQLException: Operation not allowed after ResultSet closed
+java.sql.SQLException: Operation not allowed after ResultSet closed
+[15:23:36.927] Compiling uk/ac/dundee/computing/aec/PostBean.java
+[15:23:36.927] Compiling uk/ac/dundee/computing/aec/post.java
+[15:23:36.927] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\classes\uk\ac\dundee\computing\aec\PostBean.java:12: '.class' expected
+[15:23:36.927] 		return Store[];
+[15:23:36.927]                               ^
+[15:23:36.927] 1 error
+[15:24:36.348] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:24:36.348] resin-file: destroy
+[15:24:36.348] Login: destroy
+[15:24:36.348] Logout: destroy
+[15:24:36.348] post: destroy
+[15:24:36.458] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:26:55.316] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:26:55.769] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:26:55.801] Compiling _jsp/_home__jsp.java
+[15:26:56.144] /home.jsp:45: cannot find symbol
+[15:26:56.144] symbol  : variable Store
+[15:26:56.144] location: class _jsp._home__jsp
+[15:26:56.144] 			for (int i=0; i< Store.length; i++)
+[15:26:56.144]                                          ^
+[15:26:56.144] /home.jsp:50: cannot find symbol
+[15:26:56.144] symbol  : variable Store
+[15:26:56.144] location: class _jsp._home__jsp
+[15:26:56.144]       out.print((Store[i]));
+[15:26:56.144]                  ^
+[15:26:56.144] 2 errors
+[15:27:12.051] Compiling _jsp/_home__jsp.java
+[15:27:12.488] java.lang.NullPointerException
+[15:27:12.488] 	at _jsp._home__jsp._jspService(_home__jsp.java:42)
+[15:27:12.488] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:27:12.488] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:27:12.488] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:27:12.488] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:27:12.488] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:27:12.488] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:27:12.488] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:27:12.488] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:27:12.488] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:27:12.488] 	at java.lang.Thread.run(Thread.java:595)
+[15:30:45.049] Compiling _jsp/_home__jsp.java
+[15:30:45.393] /home.jsp:43: package HomeBean does not exist
+[15:30:45.393] 			String[] stores = new HomeBean.getStore();
+[15:30:45.393]                                                       ^
+[15:30:45.393] 1 error
+[15:32:24.252] Compiling _jsp/_home__jsp.java
+[15:32:24.595] /home.jsp:43: package HomeBean does not exist
+[15:32:24.595] 			String[] stores = new HomeBean.getStore();
+[15:32:24.595]                                                       ^
+[15:32:24.595] 1 error
+[15:32:56.251] Compiling _jsp/_home__jsp.java
+[15:32:56.595] /home.jsp:43: package HomeBean does not exist
+[15:32:56.595] 			String[] stores = new HomeBean.getStore();
+[15:32:56.595]                                                       ^
+[15:32:56.595] 1 error
+[15:35:55.875] Compiling _jsp/_home__jsp.java
+[15:35:56.313] java.lang.NullPointerException
+[15:35:56.313] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:35:56.313] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:35:56.313] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:35:56.313] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:35:56.313] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:35:56.313] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:35:56.313] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:35:56.313] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:35:56.313] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:35:56.313] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:35:56.313] 	at java.lang.Thread.run(Thread.java:595)
+[15:37:22.734] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:37:22.828] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:37:22.844] java.lang.NullPointerException
+[15:37:22.844] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:37:22.844] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:37:22.844] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:37:22.844] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:37:22.844] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:37:22.844] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:37:22.844] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:37:22.844] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:37:22.844] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:37:22.844] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:37:22.844] 	at java.lang.Thread.run(Thread.java:595)
+[15:38:05.468] java.lang.NullPointerException
+[15:38:05.468] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:38:05.468] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:38:05.468] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:38:05.468] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:38:05.468] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:38:05.468] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:38:05.468] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:38:05.468] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:38:05.468] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:38:05.468] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:38:05.468] 	at java.lang.Thread.run(Thread.java:595)
+[15:38:07.078] java.lang.NullPointerException
+[15:38:07.078] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:38:07.078] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:38:07.078] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:38:07.078] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:38:07.078] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:38:07.078] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:38:07.078] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:38:07.078] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:38:07.078] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:38:07.078] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:38:07.078] 	at java.lang.Thread.run(Thread.java:595)
+[15:38:26.343] java.lang.NullPointerException
+[15:38:26.343] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:38:26.343] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:38:26.343] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:38:26.343] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:38:26.343] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:38:26.343] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:38:26.343] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:38:26.343] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:38:26.343] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:38:26.343] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:38:26.343] 	at java.lang.Thread.run(Thread.java:595)
+[15:39:43.640] java.lang.NullPointerException
+[15:39:43.640] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:39:43.640] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:39:43.640] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:39:43.640] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:39:43.640] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:39:43.640] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:39:43.640] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:39:43.640] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:39:43.640] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:39:43.640] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:39:43.640] 	at java.lang.Thread.run(Thread.java:595)
+[15:41:27.545] resin-file: init
+[15:41:44.326] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:41:44.326] resin-file: destroy
+[15:41:44.811] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:41:44.873] resin-file: init
+[15:41:46.561] Login: init
+[15:41:49.482] java.lang.NullPointerException
+[15:41:49.482] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:41:49.482] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:41:49.482] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:41:49.482] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:41:49.482] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:41:49.482] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:41:49.482] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:41:49.482] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:41:49.482] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:41:49.482] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:41:49.482] 	at java.lang.Thread.run(Thread.java:595)
+[15:43:44.591] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:43:44.591] resin-file: destroy
+[15:43:44.591] Login: destroy
+[15:43:45.075] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:43:45.138] resin-file: init
+[15:43:46.700] Login: init
+[15:43:48.466] java.lang.NullPointerException
+[15:43:48.466] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:43:48.466] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:43:48.466] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:43:48.466] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:43:48.466] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:43:48.466] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:43:48.466] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:43:48.466] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:43:48.466] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:43:48.466] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:43:48.466] 	at java.lang.Thread.run(Thread.java:595)
+[15:44:51.669] java.lang.NullPointerException
+[15:44:51.669] 	at _jsp._home__jsp._jspService(_home__jsp.java:44)
+[15:44:51.669] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[15:44:51.669] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[15:44:51.669] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[15:44:51.669] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[15:44:51.669] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[15:44:51.669] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[15:44:51.669] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[15:44:51.669] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[15:44:51.669] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[15:44:51.669] 	at java.lang.Thread.run(Thread.java:595)
+[15:45:37.418] Compiling uk/ac/dundee/computing/aec/post.java
+[15:45:37.715] Compiling _jsp/_home__jsp.java
+[15:45:37.731] /home.jsp:51: illegal start of expression
+[15:45:37.731]       ));
+[15:45:37.731]       ^
+[15:45:37.731] /home.jsp:51: ')' expected
+[15:45:37.731]       ));
+[15:45:37.731]         ^
+[15:45:37.731] 2 errors
+[15:45:44.668] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:45:44.668] resin-file: destroy
+[15:45:44.668] Login: destroy
+[15:45:44.762] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:46:15.653] Compiling _jsp/_home__jsp.java
+[15:46:16.106] resin-file: init
+[15:46:44.668] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:46:44.668] resin-file: destroy
+[15:46:45.121] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:46:51.481] resin-file: init
+[15:46:53.309] Login: init
+[15:48:17.808] post: init
+java.sql.SQLException: Operation not allowed after ResultSet closed
+java.sql.SQLException: Operation not allowed after ResultSet closed
+java.sql.SQLException: Operation not allowed after ResultSet closed
+java.sql.SQLException: Operation not allowed after ResultSet closed
+java.sql.SQLException: Operation not allowed after ResultSet closed
+[15:55:38.883] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:55:38.883] resin-file: destroy
+[15:55:38.883] Login: destroy
+[15:55:38.883] post: destroy
+[15:55:39.383] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:55:39.446] resin-file: init
+[15:55:40.915] Login: init
+[15:55:42.555] Compiling _jsp/_home__jsp.java
+[15:55:44.508] post: init
+test
+java.sql.SQLException: Operation not allowed after ResultSet closed
+test
+java.sql.SQLException: Operation not allowed after ResultSet closed
+[15:58:38.601] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[15:58:38.601] resin-file: destroy
+[15:58:38.601] Login: destroy
+[15:58:38.601] post: destroy
+[15:59:12.882] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[15:59:12.929] resin-file: init
+[15:59:14.757] Login: init
+[15:59:19.257] post: init
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+[16:00:12.819] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:00:12.819] resin-file: destroy
+[16:00:12.819] Login: destroy
+[16:00:12.819] post: destroy
+[16:00:13.272] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:00:16.803] resin-file: init
+[16:00:18.741] Login: init
+[16:00:21.772] post: init
+testl
+test2
+test
+yuter6
+test
+x
+[16:01:13.147] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:01:13.147] resin-file: destroy
+[16:01:13.147] Login: destroy
+[16:01:13.147] post: destroy
+[16:01:13.272] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:01:41.303] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:01:41.819] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:01:41.881] resin-file: init
+[16:01:42.975] Login: init
+[16:01:44.897] Compiling _jsp/_home__jsp.java
+[16:01:45.303] java.lang.NullPointerException
+[16:01:45.303] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:01:45.303] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:01:45.303] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:01:45.303] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:01:45.303] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:01:45.303] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:01:45.303] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:01:45.303] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:01:45.303] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:01:45.303] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:01:45.303] 	at java.lang.Thread.run(Thread.java:595)
+[16:03:02.756] java.lang.NullPointerException
+[16:03:02.756] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:03:02.756] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:03:02.756] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:03:02.756] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:03:02.756] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:03:02.756] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:03:02.756] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:03:02.756] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:03:02.756] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:03:02.756] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:03:02.756] 	at java.lang.Thread.run(Thread.java:595)
+[16:03:24.568] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:03:24.568] resin-file: destroy
+[16:03:24.568] Login: destroy
+[16:03:25.037] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:03:25.099] resin-file: init
+[16:03:26.302] Login: init
+[16:03:27.693] java.lang.NullPointerException
+[16:03:27.693] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:03:27.693] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:03:27.693] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:03:27.693] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:03:27.693] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:03:27.693] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:03:27.693] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:03:27.693] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:03:27.693] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:03:27.693] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:03:27.693] 	at java.lang.Thread.run(Thread.java:595)
+[16:05:57.942] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:05:57.942] resin-file: destroy
+[16:05:57.942] Login: destroy
+[16:05:58.458] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:05:58.520] resin-file: init
+[16:06:00.379] Login: init
+[16:06:02.426] Compiling _jsp/_home__jsp.java
+[16:06:04.176] post: init
+test2
+[16:06:57.363] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:06:57.363] resin-file: destroy
+[16:06:57.363] Login: destroy
+[16:06:57.363] post: destroy
+[16:06:57.817] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:06:57.895] resin-file: init
+[16:07:00.098] Login: init
+[16:07:03.254] post: init
+test2
+[16:10:58.237] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:10:58.237] resin-file: destroy
+[16:10:58.237] Login: destroy
+[16:10:58.237] post: destroy
+[16:10:58.831] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:11:03.956] resin-file: init
+[16:11:05.768] Login: init
+[16:11:08.018] Compiling _jsp/_home__jsp.java
+[16:11:08.081] /home.jsp:58: 'catch' without 'try'
+[16:11:08.081]     } catch (java.lang.Throwable _jsp_e) {
+[16:11:08.081]       ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:26: 'try' without 'catch' or 'finally'
+[16:11:08.081]     try {
+[16:11:08.081]     ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:58: illegal start of expression
+[16:11:08.081]   private java.util.ArrayList _caucho_depends = new java.util.ArrayList();
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:60: illegal start of expression
+[16:11:08.081]   public java.util.ArrayList _caucho_getDependList()
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:114: illegal start of expression
+[16:11:08.081]   private final static char []_jsp_string2;
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:115: illegal start of expression
+[16:11:08.081]   private final static char []_jsp_string4;
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:116: illegal start of expression
+[16:11:08.081]   private final static char []_jsp_string0;
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:117: illegal start of expression
+[16:11:08.081]   private final static char []_jsp_string3;
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:118: illegal start of expression
+[16:11:08.081]   static {
+[16:11:08.081]   ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:125: ';' expected
+[16:11:08.081] }
+[16:11:08.081] ^
+[16:11:08.081] d:\www\2012-ac31004\demetrisdemetriou\WEB-INF\work\_jsp\_home__jsp.java:126: '}' expected
+[16:11:08.081] ^
+[16:11:08.081] 11 errors
+[16:12:25.221] Compiling _jsp/_home__jsp.java
+[16:12:25.611] java.lang.NullPointerException
+[16:12:25.611] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:12:25.611] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:12:25.611] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:12:25.611] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:12:25.611] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:12:25.611] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:12:25.611] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:12:25.611] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:12:25.611] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:12:25.611] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:12:25.611] 	at java.lang.Thread.run(Thread.java:595)
+[16:12:59.799] Compiling _jsp/_home__jsp.java
+[16:13:00.142] /home.jsp:45: variable stores might not have been initialized
+[16:13:00.142] 			for (int i=0; i< stores.length; i++)
+[16:13:00.142]                                          ^
+[16:13:00.142] 1 error
+[16:19:27.687] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:19:27.687] resin-file: destroy
+[16:19:27.687] Login: destroy
+[16:19:28.140] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:19:28.202] resin-file: init
+[16:19:29.890] Login: init
+[16:19:32.015] Compiling _jsp/_home__jsp.java
+[16:19:32.390] java.lang.NullPointerException
+[16:19:32.390] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:19:32.390] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:19:32.390] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:19:32.390] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:19:32.390] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:19:32.390] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:19:32.390] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:19:32.390] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:19:32.390] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:19:32.390] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:19:32.390] 	at java.lang.Thread.run(Thread.java:595)
+[16:22:48.482] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:22:48.482] resin-file: destroy
+[16:22:48.482] Login: destroy
+[16:22:48.951] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:22:48.951] resin-file: init
+[16:23:00.170] Login: init
+[16:23:02.107] java.lang.NullPointerException
+[16:23:02.107] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:23:02.107] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:23:02.107] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:23:02.107] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:23:02.107] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:23:02.107] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:23:02.107] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:23:02.107] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:23:02.107] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:23:02.107] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:23:02.107] 	at java.lang.Thread.run(Thread.java:595)
+[16:24:11.919] Compiling _jsp/_home__jsp.java
+[16:24:12.263] /home.jsp:43: cannot find symbol
+[16:24:12.263] symbol  : variable PostBean
+[16:24:12.263] location: class _jsp._home__jsp
+[16:24:12.263] 			stores=PostBean.getStore();
+[16:24:12.263]                                ^
+[16:24:12.263] 1 error
+[16:24:34.419] Compiling _jsp/_home__jsp.java
+[16:24:34.841] java.lang.NullPointerException
+[16:24:34.841] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:24:34.841] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:24:34.841] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:24:34.841] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:24:34.841] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:24:34.841] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:24:34.841] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:24:34.841] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:24:34.841] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:24:34.841] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:24:34.841] 	at java.lang.Thread.run(Thread.java:595)
+[16:24:48.544] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:24:48.544] resin-file: destroy
+[16:24:48.544] Login: destroy
+[16:24:48.997] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:24:52.450] resin-file: init
+[16:24:54.153] Login: init
+[16:24:56.263] java.lang.NullPointerException
+[16:24:56.263] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:24:56.263] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:24:56.263] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:24:56.263] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:24:56.263] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:24:56.263] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:24:56.263] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:24:56.263] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:24:56.263] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:24:56.263] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:24:56.263] 	at java.lang.Thread.run(Thread.java:595)
+[16:28:39.089] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:28:39.089] resin-file: destroy
+[16:28:39.089] Login: destroy
+[16:28:39.558] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:28:39.636] resin-file: init
+[16:28:42.402] Login: init
+[16:28:44.355] Compiling _jsp/_home__jsp.java
+[16:31:39.229] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:31:39.229] resin-file: destroy
+[16:31:39.229] Login: destroy
+[16:31:40.026] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:31:42.823] resin-file: init
+[16:31:44.416] Login: init
+[16:31:45.807] java.lang.NullPointerException
+[16:31:45.807] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:31:45.807] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:31:45.807] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:31:45.807] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:31:45.807] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:31:45.807] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:31:45.807] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:31:45.807] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:31:45.807] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:31:45.807] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:31:45.807] 	at java.lang.Thread.run(Thread.java:595)
+[16:32:30.291] java.lang.NullPointerException
+[16:32:30.291] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:32:30.291] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:32:30.291] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:32:30.291] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:32:30.291] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:32:30.291] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:32:30.291] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:32:30.291] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:32:30.291] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:32:30.291] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:32:30.291] 	at java.lang.Thread.run(Thread.java:595)
+[16:32:31.791] java.lang.NullPointerException
+[16:32:31.791] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:32:31.791] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:32:31.791] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:32:31.791] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:32:31.791] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:32:31.791] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:32:31.791] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:32:31.791] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:32:31.791] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:32:31.791] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:32:31.791] 	at java.lang.Thread.run(Thread.java:595)
+[16:36:02.837] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:36:02.837] resin-file: destroy
+[16:36:02.837] Login: destroy
+[16:36:43.430] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:36:43.461] resin-file: init
+[16:36:45.586] Login: init
+[16:36:47.399] java.lang.NullPointerException
+[16:36:47.399] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:36:47.399] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:36:47.399] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:36:47.399] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:36:47.399] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:36:47.399] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:36:47.399] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:36:47.399] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:36:47.399] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:36:47.399] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:36:47.399] 	at java.lang.Thread.run(Thread.java:595)
+[16:44:44.552] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:44:44.552] resin-file: destroy
+[16:44:44.552] Login: destroy
+[16:44:44.693] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:45:12.489] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:45:12.942] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:45:13.005] resin-file: init
+[16:45:27.833] Login: init
+[16:45:44.630] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:45:44.630] resin-file: destroy
+[16:45:44.630] Login: destroy
+[16:45:45.067] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:45:45.145] resin-file: init
+[16:45:46.661] Login: init
+[16:45:48.505] java.lang.NullPointerException
+[16:45:48.505] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:45:48.505] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:45:48.505] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:45:48.505] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:45:48.505] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:45:48.505] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:45:48.505] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:45:48.505] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:45:48.505] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:45:48.505] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:45:48.505] 	at java.lang.Thread.run(Thread.java:595)
+[16:49:38.550] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:49:38.550] resin-file: destroy
+[16:49:38.550] Login: destroy
+[16:49:39.003] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:49:39.066] resin-file: init
+[16:49:41.644] Login: init
+[16:49:43.644] java.lang.NullPointerException
+[16:49:43.644] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[16:49:43.644] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[16:49:43.644] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[16:49:43.644] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[16:49:43.644] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[16:49:43.644] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[16:49:43.644] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[16:49:43.644] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[16:49:43.644] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[16:49:43.644] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[16:49:43.644] 	at java.lang.Thread.run(Thread.java:595)
+[16:52:35.612] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:52:35.612] resin-file: destroy
+[16:52:35.612] Login: destroy
+[16:52:36.049] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:52:36.127] resin-file: init
+[16:52:40.486] Login: init
+[16:54:25.564] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[16:54:25.564] resin-file: destroy
+[16:54:25.564] Login: destroy
+[16:54:26.033] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[16:54:26.111] resin-file: init
+[16:54:27.611] Login: init
+[17:00:26.671] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[17:00:26.671] resin-file: destroy
+[17:00:26.671] Login: destroy
+[17:00:27.155] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[17:00:28.921] resin-file: init
+[17:00:31.327] Login: init
+[17:01:30.889] post: init
+testl
+test2
+test
+yuter6
+test
+x
+[17:02:22.077] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[17:02:22.077] resin-file: destroy
+[17:02:22.077] Login: destroy
+[17:02:22.077] post: destroy
+[17:02:22.577] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[17:02:22.639] resin-file: init
+[17:02:24.858] Login: init
+[17:02:26.795] java.lang.NullPointerException
+[17:02:26.795] 	at _jsp._home__jsp._jspService(_home__jsp.java:43)
+[17:02:26.795] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:60)
+[17:02:26.795] 	at com.caucho.jsp.Page.pageservice(Page.java:570)
+[17:02:26.795] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:179)
+[17:02:26.795] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:173)
+[17:02:26.795] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:229)
+[17:02:26.795] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:274)
+[17:02:26.795] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:511)
+[17:02:26.795] 	at com.caucho.util.ThreadPool.runTasks(ThreadPool.java:516)
+[17:02:26.795] 	at com.caucho.util.ThreadPool.run(ThreadPool.java:442)
+[17:02:26.795] 	at java.lang.Thread.run(Thread.java:595)
+[17:03:09.295] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[17:03:09.295] resin-file: destroy
+[17:03:09.295] Login: destroy
+[17:03:09.764] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[17:03:09.764] resin-file: init
+[17:03:18.373] Login: init
+[17:03:21.592] post: init
+[18:00:16.898] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[18:00:16.898] resin-file: destroy
+[18:00:16.898] Login: destroy
+[18:00:16.898] post: destroy
+[18:00:17.351] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[18:00:19.382] resin-file: init
+[18:00:21.023] Login: init
+[18:00:23.039] Compiling _jsp/_home__jsp.java
+[18:00:25.554] post: init
+[18:01:56.585] Compiling _jsp/_home__jsp.java
+[21:25:44.069] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:25:44.069] resin-file: destroy
+[21:25:44.069] Login: destroy
+[21:25:44.069] post: destroy
+[21:25:44.554] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:27:44.584] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:27:44.693] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:27:51.646] resin-file: init
+[21:27:53.428] Login: init
+[21:27:56.646] post: init
+[21:28:19.896] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:28:19.896] resin-file: destroy
+[21:28:19.896] Login: destroy
+[21:28:19.896] post: destroy
+[21:33:29.597] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:33:29.707] resin-file: init
+[21:33:31.113] Login: init
+[21:33:35.175] post: init
+[21:40:35.985] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[21:40:36.017] resin-file: destroy
+[21:40:36.032] Login: destroy
+[21:40:36.032] post: destroy
+[21:58:26.935] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[21:58:27.153] resin-file: init
+[21:58:29.278] Login: init
+[21:58:32.841] post: init
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Unknown column 'userid' in 'field list'
+[22:02:15.761] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:02:15.761] resin-file: destroy
+[22:02:15.761] Login: destroy
+[22:02:15.761] post: destroy
+[22:02:15.886] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:02:16.089] resin-file: init
+[22:02:17.558] Login: init
+[22:02:23.058] post: init
+java.sql.SQLException: Field 'idposts' doesn't have a default value
+[22:03:15.714] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:03:15.714] resin-file: destroy
+[22:03:15.714] Login: destroy
+[22:03:15.714] post: destroy
+[22:03:16.183] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:03:30.886] resin-file: init
+[22:03:32.355] Login: init
+[22:03:37.105] post: init
+java.sql.SQLException: Field 'idposts' doesn't have a default value
+[22:06:23.244] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:06:23.244] resin-file: destroy
+[22:06:23.244] Login: destroy
+[22:06:23.244] post: destroy
+[22:06:23.682] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:06:23.807] resin-file: init
+[22:06:24.994] Login: init
+[22:06:28.494] post: init
+java.lang.ArrayIndexOutOfBoundsException: 1
+java.lang.ArrayIndexOutOfBoundsException: 1
+[22:07:39.509] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:07:39.509] resin-file: destroy
+[22:07:39.509] Login: destroy
+[22:07:39.509] post: destroy
+[22:07:39.962] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:07:40.072] resin-file: init
+[22:07:41.259] Login: init
+[22:07:44.790] post: init
+java.lang.ArrayIndexOutOfBoundsException: 1
+[22:10:31.993] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:10:31.993] resin-file: destroy
+[22:10:31.993] Login: destroy
+[22:10:31.993] post: destroy
+[22:10:32.477] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:10:32.602] resin-file: init
+[22:10:34.227] Login: init
+[22:10:39.305] post: init
+java.lang.ArrayIndexOutOfBoundsException: 1
+[22:13:32.616] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:13:32.632] resin-file: destroy
+[22:13:32.632] Login: destroy
+[22:13:32.632] post: destroy
+[22:13:32.726] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:14:57.350] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:14:57.788] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:14:58.022] resin-file: init
+[22:14:59.944] Login: init
+[22:15:06.616] post: init
+java.sql.SQLException: Before start of result set
+[22:17:57.380] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:17:57.380] resin-file: destroy
+[22:17:57.380] Login: destroy
+[22:17:57.380] post: destroy
+[22:17:57.490] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:18:27.771] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:22:58.863] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:22:58.956] resin-file: init
+[22:23:00.972] Login: init
+[22:23:05.456] post: init
+java.lang.ArrayIndexOutOfBoundsException: 1
+[22:23:41.800] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:23:41.800] resin-file: destroy
+[22:23:41.800] Login: destroy
+[22:23:41.800] post: destroy
+[22:23:42.237] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:23:42.456] resin-file: init
+[22:23:44.362] Login: init
+[22:23:47.081] post: init
+java.lang.ArrayIndexOutOfBoundsException: 1
+[22:25:42.237] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:25:42.237] resin-file: destroy
+[22:25:42.237] Login: destroy
+[22:25:42.237] post: destroy
+[22:25:42.346] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:30:08.907] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:31:56.922] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:31:57.016] resin-file: init
+[22:31:58.719] Login: init
+[22:32:00.734] Compiling _jsp/_home__jsp.java
+[22:32:02.797] post: init
+[22:32:50.046] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] stopping
+[22:32:50.046] resin-file: destroy
+[22:32:50.046] Login: destroy
+[22:32:50.046] post: destroy
+[22:32:50.500] WebApp[http://ac31004.computing.dundee.ac.uk/demetrisdemetriou] starting
+[22:32:50.625] resin-file: init
+[22:32:51.984] Login: init
+[22:32:56.953] post: init
+[22:33:48.296] Logout: init
+[22:35:03.077] change: init

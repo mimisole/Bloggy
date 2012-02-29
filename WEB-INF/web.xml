@@ -1,0 +1,50 @@
+<web-app xmlns="http://caucho.com/ns/resin"
+         xmlns:resin="http://caucho.com/ns/resin/core">
+<class-loader>
+    <simple-loader path="WEB-INF/classes"/>
+    <compiling-loader path="WEB-INF/classes" source="WEB-INF/classes"/>
+  </class-loader>
+
+ <servlet>
+   <servlet-name>input</servlet-name>
+  <servlet-class>uk.ac.dundee.computing.aec.input</servlet-class>
+ </servlet>
+  <servlet-mapping>
+    <servlet-name>input</servlet-name>
+    <url-pattern>/input</url-pattern>
+  </servlet-mapping>
+ <servlet>
+   <servlet-name>Login</servlet-name>
+  <servlet-class>uk.ac.dundee.computing.aec.Login</servlet-class>
+ </servlet>
+  <servlet-mapping>
+    <servlet-name>Login</servlet-name>
+    <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+<servlet>
+   <servlet-name>Logout</servlet-name>
+  <servlet-class>uk.ac.dundee.computing.aec.Logout</servlet-class>
+ </servlet>
+  <servlet-mapping>
+    <servlet-name>Logout</servlet-name>
+    <url-pattern>/Logout</url-pattern>
+  </servlet-mapping>
+  <servlet>
+   <servlet-name>post</servlet-name>
+  <servlet-class>uk.ac.dundee.computing.aec.post</servlet-class>
+ </servlet>
+  <servlet-mapping>
+    <servlet-name>post</servlet-name>
+    <url-pattern>/post</url-pattern>
+  </servlet-mapping>
+  <servlet>
+   <servlet-name>change</servlet-name>
+  <servlet-class>uk.ac.dundee.computing.aec.change</servlet-class>
+ </servlet>
+  <servlet-mapping>
+    <servlet-name>change</servlet-name>
+    <url-pattern>/change</url-pattern>
+  </servlet-mapping>
+  
+  
+</web-app>
